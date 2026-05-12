@@ -13,13 +13,14 @@ Criar um sistema completo de gerenciamento de usuários utilizando as tecnologia
 
 ## Site para quem quiser testar:  localhost:8081/h2-console
 
-Driver Class:	org.h2.Driver
-JDBC URL: jdbc:h2:mem:usuarios
-Username: sa 
- 
+- **Driver Class:** 	org.h2.Driver
+- **JDBC URL:** jdbc:h2:mem:usuarios
+- **Username:** sa
+  
 (só clicar em conect)
 
 server port: 8081
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
