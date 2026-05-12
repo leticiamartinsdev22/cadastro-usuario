@@ -31,6 +31,7 @@ server port: 8081
 - **Spring Web** - REST API
 - **MySQL 8.0+** - Banco de dados relacional
 - **Lombok** - Redução de código boilerplate
+- **Docker** 
 - **Maven** - Gerenciador de dependências
 - **Postman** - Testes de API
 
