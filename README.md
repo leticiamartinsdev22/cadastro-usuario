@@ -11,7 +11,14 @@ Este é um projeto **prático e moderno** que demonstra as melhores práticas de
 
 Criar um sistema completo de gerenciamento de usuários utilizando as tecnologias mais atuais do mercado, com uma arquitetura limpa e bem estruturada.
 
-## site: localhost:8081/h2-console
+## Site para quem quiser testar:  localhost:8081/h2-console
+
+Driver Class:	org.h2.Driver
+JDBC URL: jdbc:h2:mem:usuarios
+Username: sa 
+ 
+(só clicar em conect)
+
 server port: 8081
 ---
 
