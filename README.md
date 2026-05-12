@@ -1,6 +1,6 @@
 # API Cadastro de Usuários
 
-API REST desenvolvida com Java e Spring Boot para gerenciamento de usuários, implementando operações CRUD completas, integração com banco de dados e conteinerização com Docker.
+API REST desenvolvida com Java e Spring Boot para gerenciamento de usuários, implementando operações CRUD completas e integração com banco de dados.
 
 ---
 
@@ -11,8 +11,7 @@ API REST desenvolvida com Java e Spring Boot para gerenciamento de usuários, im
 - Spring Data JPA
 - Hibernate
 - Maven
-- H2 Database / MySQL
-- Docker
+- H2 Database
 - Postman
 
 ---
@@ -22,11 +21,10 @@ API REST desenvolvida com Java e Spring Boot para gerenciamento de usuários, im
 ✔ Cadastro de usuários  
 ✔ Listagem de usuários  
 ✔ Busca por ID  
-✔ Atualização de usuários  
+✔ Atualização de dados  
 ✔ Exclusão de usuários  
 ✔ API REST  
 ✔ Integração com banco de dados  
-✔ Containerização com Docker  
 
 ---
 
@@ -35,7 +33,7 @@ API REST desenvolvida com Java e Spring Boot para gerenciamento de usuários, im
 ```text
 src/main/java
 ├── controller
-├── service
-├── repository
 ├── model
+├── repository
+├── service
 └── CadastroUsuarioApplication
