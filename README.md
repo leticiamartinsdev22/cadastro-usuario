@@ -28,6 +28,12 @@ API REST desenvolvida com Java e Spring Boot para gerenciamento de usuários, im
 
 ---
 
+## Testando a API no Postman
+
+<p align="center">
+  <img src="images/postman-crud.png" alt="Testes da API no Postman" width="900">
+</p>
+
 ## Estrutura do Projeto
 
 ```text
