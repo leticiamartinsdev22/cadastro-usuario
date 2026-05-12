@@ -72,7 +72,7 @@ Edite o arquivo `src/main/resources/application.properties`:
 
 ```properties
 # Configuração do Servidor
-server.port=8080
+server.port=8081
 server.servlet.context-path=/api
 
 # Configuração do Banco de Dados MySQL
