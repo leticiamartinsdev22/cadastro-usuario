@@ -1,4 +1,4 @@
-# 📋 Cadastro de Usuários - CRUD Spring Boot
+# 📋 Cadastro de Usuários - CRUD Java + Spring Boot
 
 Um projeto CRUD (Create, Read, Update, Delete) básico desenvolvido em **Java** com **Spring Boot** para gerenciar cadastro de usuários.
 
