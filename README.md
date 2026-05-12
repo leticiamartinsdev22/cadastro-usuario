@@ -1,4 +1,4 @@
-# 💼 CRUD Java com Spring Boot 2025
+# CRUD Java com Spring Boot 
 
 
 Projeto de CRUD completo desenvolvido seguindo as dicas do canal **Javanauta**
